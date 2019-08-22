@@ -1,0 +1,152 @@
+2019-08-20 15:41:25,578 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:41:26,030 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:41:26,474 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:43:27,728 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:43:27,858 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:43:28,155 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:44:11,961 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:44:12,079 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:44:12,326 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:48:19,948 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:48:20,210 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:48:20,493 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:49:04,176 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:49:04,331 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:49:04,629 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:53:48,565 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:53:48,707 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:53:49,073 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:54:33,762 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:54:33,934 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:54:34,282 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:54:35,083 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 15:54:35,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land]
+2019-08-20 15:54:35,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 15:54:35,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 15:54:35,120 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 15:54:35,495 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-20 15:54:36,163 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 15:57:10,774 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:57:11,112 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:57:11,486 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:57:11,750 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 15:57:11,757 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land]
+2019-08-20 15:57:11,757 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 15:57:11,757 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 15:57:11,760 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 15:57:12,191 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-20 15:57:12,420 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 15:57:58,939 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:57:59,226 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:57:59,472 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 15:57:59,704 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 15:57:59,711 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land]
+2019-08-20 15:57:59,712 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 15:57:59,712 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 15:57:59,714 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 15:57:59,896 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-20 15:58:00,098 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 15:58:52,684 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 15:58:52,830 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 15:58:53,121 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 16:06:20,862 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 16:06:21,020 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 16:06:21,407 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 16:07:52,039 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.1.0.Final}
+2019-08-20 16:07:52,040 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000206: hibernate.properties not found
+2019-08-20 16:07:52,041 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000021: Bytecode provider name : javassist
+2019-08-20 16:07:52,068 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 16:07:52,331 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-08-20 16:11:28,752 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.1.0.Final}
+2019-08-20 16:11:28,753 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000206: hibernate.properties not found
+2019-08-20 16:11:28,754 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000021: Bytecode provider name : javassist
+2019-08-20 16:11:28,776 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 16:11:29,065 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-08-20 16:15:11,717 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.1.0.Final}
+2019-08-20 16:15:11,719 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000206: hibernate.properties not found
+2019-08-20 16:15:11,720 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000021: Bytecode provider name : javassist
+2019-08-20 16:15:11,749 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 16:15:11,978 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-08-20 16:19:30,468 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.1.0.Final}
+2019-08-20 16:19:30,470 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000205: Loaded properties from resource hibernate.properties: {hibernate.bytecode.use_reflection_optimizer=false}
+2019-08-20 16:19:30,471 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000021: Bytecode provider name : javassist
+2019-08-20 16:19:30,496 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 16:19:30,662 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-08-20 17:50:29,365 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2019-08-20 17:50:29,376 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {4.3.6.Final}
+2019-08-20 17:50:29,378 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000206: hibernate.properties not found
+2019-08-20 17:50:29,379 [main] [org.hibernate.cfg.Environment] [INFO] - HHH000021: Bytecode provider name : javassist
+2019-08-20 17:50:29,397 [main] [org.hibernate.cfg.Configuration] [INFO] - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2019-08-20 17:50:29,397 [main] [org.hibernate.cfg.Configuration] [INFO] - HHH000040: Configuration resource: /hibernate.cfg.xml
+2019-08-20 17:50:29,435 [main] [org.hibernate.internal.util.xml.DTDEntityResolver] [WARN] - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2019-08-20 17:50:29,451 [main] [org.hibernate.cfg.Configuration] [INFO] - HHH000041: Configured SessionFactory: null
+2019-08-20 17:50:29,530 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [WARN] - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 17:50:29,577 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000401: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land]
+2019-08-20 17:50:29,577 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000046: Connection properties: {user=root, password=****}
+2019-08-20 17:50:29,577 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000006: Autocommit mode: false
+2019-08-20 17:50:29,614 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 17:50:30,027 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-08-20 17:50:30,065 [main] [org.hibernate.engine.transaction.internal.TransactionFactoryInitiator] [INFO] - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2019-08-20 17:50:30,068 [main] [org.hibernate.hql.internal.ast.ASTQueryTranslatorFactory] [INFO] - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-20 18:03:57,066 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 18:03:57,561 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 18:03:58,005 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 18:03:58,361 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 18:03:58,367 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land?useSSL=false&serverTimezone=UTC]
+2019-08-20 18:03:58,367 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 18:03:58,367 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 18:03:58,371 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 18:03:58,644 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-08-20 18:03:59,167 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 18:08:31,466 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 18:08:31,593 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 18:08:31,880 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 18:08:32,101 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 18:08:32,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land?useSSL=false&serverTimezone=UTC]
+2019-08-20 18:08:32,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 18:08:32,112 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 18:08:32,115 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 18:08:33,022 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-20 18:08:33,259 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 18:09:16,694 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 18:09:16,848 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 18:09:17,150 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-20 18:09:17,349 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-20 18:09:17,355 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land?useSSL=false&serverTimezone=UTC]
+2019-08-20 18:09:17,355 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-20 18:09:17,355 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-20 18:09:17,358 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-20 18:09:17,550 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-20 18:09:17,739 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-20 18:10:03,598 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-20 18:10:03,747 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-20 18:10:04,030 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:32:02,253 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:32:02,737 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-21 10:32:03,166 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:32:40,077 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:32:40,212 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-21 10:32:40,551 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:33:40,770 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:33:40,935 [main] [org.hibernate.orm.deprecation] [WARN] - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2019-08-21 10:33:41,279 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:35:24,187 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:35:24,660 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:36:36,747 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:38:00,857 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:43:23,290 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:43:23,971 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:48:29,073 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:48:29,411 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:49:00,312 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:49:01,276 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:51:42,699 [main] [org.hibernate.Version] [INFO] - HHH000412: Hibernate Core {5.4.4.Final}
+2019-08-21 10:51:43,191 [main] [org.hibernate.annotations.common.Version] [INFO] - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-08-21 10:51:44,338 [main] [org.hibernate.orm.connections.pooling] [WARN] - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2019-08-21 10:51:44,360 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://192.168.246.129:3306/land?useSSL=false&serverTimezone=UTC]
+2019-08-21 10:51:44,361 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001001: Connection properties: {user=root, password=****}
+2019-08-21 10:51:44,361 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001003: Autocommit mode: false
+2019-08-21 10:51:44,374 [main] [org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl] [INFO] - HHH000115: Hibernate connection pool size: 20 (min=1)
+2019-08-21 10:51:44,699 [main] [org.hibernate.dialect.Dialect] [INFO] - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-08-21 10:51:46,217 [main] [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] [INFO] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-08-21 10:51:46,374 [main] [org.hibernate.orm.connections.pooling] [INFO] - HHH10001008: Cleaning up connection pool [jdbc:mysql://192.168.246.129:3306/land?useSSL=false&serverTimezone=UTC]

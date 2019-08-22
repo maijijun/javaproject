@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.maijijun.bean.FilesEntity" table="FILES" schema="land">
+        <id name="gnum" column="GNUM"/>
+        <property name="pid" column="PID"/>
+        <property name="squre" column="SQURE"/>
+        <property name="type" column="TYPE"/>
+        <property name="usedfor" column="USEDFOR"/>
+        <property name="people" column="PEOPLE"/>
+        <property name="location" column="LOCATION"/>
+        <property name="whenuse" column="WHENUSE"/>
+        <property name="remark" column="REMARK"/>
+        <property name="content" column="CONTENT"/>
+    </class>
+</hibernate-mapping>
